@@ -1,0 +1,18 @@
+.imagens {
+    width: 30%;
+    border: solid 2px;
+}
+
+h1 {
+    color: blue;
+    font: bold;
+}
+
+h2 {
+    color: red;
+}
+
+#imagens {
+    width: 500px;
+    border: solid 2px;
+}
