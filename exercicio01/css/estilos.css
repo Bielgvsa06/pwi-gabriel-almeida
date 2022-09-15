@@ -1,18 +1,60 @@
 .imagens {
-    width: 30%;
-    border: solid 2px;
+    width: 100% ;
+    
 }
 
 h1 {
-    color: blue;
+    color: black ;
     font: bold;
 }
 
 h2 {
-    color: red;
+    color: 	#CD853F;
 }
 
 #imagens {
-    width: 500px;
+    width: 100%;
     border: solid 2px;
 }
+
+.div1 h1 {
+    color: black;
+    }
+
+.div2 {
+
+    border: 10px outset #A020F0 ;
+    background-color: 	#EE82EE;
+    text-align: center;
+    width: 35%;
+    margin: 0 auto;
+    
+}
+
+.gv {
+
+    border: 8px outset #A020F0	;
+    background-color: #EE82EE	;
+    text-align: center;
+
+}
+
+.hr hr {
+    width: 50%;
+}
+
+.gv2 {
+    border: 10px outset #A020F0;
+    background-color: #EE82EE;
+    text-align:center ; 
+    width: 500px ;
+    margin: 0 auto ;   
+}
+
+.neu {
+text-align: center;
+
+}
+
+
+
