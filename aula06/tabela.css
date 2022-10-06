@@ -1,0 +1,24 @@
+
+table {
+    border: green 2px groove;
+}
+
+table:nth-child(3) {
+    border: red 2px groove;
+}
+
+.z4 td, .z4 th{
+    border: red 4px inset ;
+    background-color:#EE5C42 ;
+     
+}
+
+.g4 td, .g4 th {
+border: green 4px inset ;
+background-color: #C1FFC1 ;
+
+}
+
+th, td {
+    padding: 10px
+}
